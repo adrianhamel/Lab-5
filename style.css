@@ -10,7 +10,7 @@ body {
   text-align: center;
 }
 .wrapper h1, h2 {
-  background-color: aliceblue;
+  background-color: darkslategray;
 }
 .header {
   padding: 7.5px;
@@ -30,7 +30,7 @@ table.table2 {
     height: auto;
     margin: auto;
     font-size: 20px;
-    background-color: darkslategrey;
+    background-color: darkslategray;
 }
 
 table.table2 th {
