@@ -1,12 +1,8 @@
-body {
-  background-image: images/("stars.jpg");
-  text-align: center;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-}
-
 .wrapper {
   width: auto;
   margin: 0;
+  background-color: pinik;
+  text-align: left;
 }
 
 .header {
