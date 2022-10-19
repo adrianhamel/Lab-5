@@ -7,13 +7,13 @@ body {
 .wrapper {
   width: auto;
   margin: 0;
-  text-align: left;
+  text-align: center;
 }
 
 .header {
   padding: 15px;
   font-size: 30px;
-  text-align: left;
+  text-align: center;
 }
 
 .images img {
